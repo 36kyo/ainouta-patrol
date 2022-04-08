@@ -2,7 +2,11 @@
 
 I love HOSHIMA AI's patrol robot.
 
-## M5Stack execution result
+## Requires
+* platformIO : [A professional collaborative platform for embedded development · PlatformIO](https://platformio.org/)
+* M5Stack Basic - スイッチサイエンス https://www.switch-science.com/catalog/3647/
+
+## Execution result
 https://twitter.com/36kyo/status/1466374305386680321
 ![](https://pbs.twimg.com/media/FFmbqKKVkBATDVT?format=jpg&name=large)
 
